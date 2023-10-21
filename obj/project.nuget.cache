@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OVo9X/mwUI50W68/7z0o88S/W6W8m96VSpsT6nHE74BjDnIA5rCzs2m2G74ieZ9n5e7+/44yyOUnkToxg1zXKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samuel.moya\\Desktop\\Prueba\\ServiciFacturacion\\Apimodelo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samuel.moya\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\samuel.moya\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\samuel.moya\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\samuel.moya\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\samuel.moya\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\samuel.moya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\samuel.moya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
